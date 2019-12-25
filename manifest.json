@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "To-Do",
+  "version": "1.0",
+  "description": "To-do list",
+  "browser_action": {
+    "default_icon": "yeah.png",
+    "icons": {
+      "16": "yeah.png",
+      "48": "yeah.png",
+      "128": "yeah.png""
+     }
+  }
+}
