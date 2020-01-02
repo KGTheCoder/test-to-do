@@ -4,11 +4,12 @@
   "version": "1.0",
   "description": "To-do list",
   "browser_action": {
-    "default_icon": "yeah.png",
+    "default_icon": "imgs/yeah.png",
     "icons": {
-      "16": "yeah.png",
-      "48": "yeah.png",
-      "128": "yeah.png""
-     }
+      "16": "imgs/yeah.png",
+      "48": "imgs/yeah.png",
+      "128": "imgs/yeah.png"
+    },
+    "default_popup": "popup.html"
   }
 }
